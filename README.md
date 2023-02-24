@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vsanandkrishnan
 - 👀 I’m interested in web scripting and API automation.
 - 🌱 I’m currently learning C# Selenium automation frameworks.
-- 💞️ I’m looking to collaborate on people working on any web scripting using Python.
+- 💞️ I’m looking to collaborate on people working on any web scripting using playwright and JavaScript.
 - 📫 How to reach me on mail vs.anandkrishnan@outlook.com or on LinkedIn /anandkrishnanvs/
  
 <!---
